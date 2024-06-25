@@ -28,22 +28,22 @@ pip install jupyterlab
 jupyter lab
 ```
 
-6. [python_basic](01_intro.ipynb)
+## [python 기초정보](01_intro.ipynb)
 
-- 데이터 타입
-    - 1. Number
-    - 2. Boolean
-    - 3. String
+- 1. 데이터 타입
+    - 1-1 Number
+    - 1-2 Boolean
+    - 1-3. String
 
-- 자료구조
-    - 시퀀스 자료형
+- 2. 자료구조
+    - 2-1. 시퀀스 자료형
 
-        - 1. .[list]. : mutable
-        - 2. (Tuple) : immutable
-        - 3. range() : immutable
-        - 4. 'String' : immutable
+        - 2-1-1. .[list]. : mutable
+        - 2-1-2. (Tuple) : immutable
+        - 2-1-3. range() : immutable
+        - 2-1-4. 'String' : immutable
 
-    - 시퀀스 자료형
+    - 2-2. 시퀀스 자료형
 
-        - 1. {set} : mutable
-        - 2. {Dict: ionary} : mutable
+        - 2-2-1. {set} : mutable
+        - 2-2-2. {Dict: ionary} : mutable
