@@ -38,7 +38,7 @@ jupyter lab
 - 2. 자료구조
     - 2-1. 시퀀스 자료형
 
-        - 2-1-1. .[list]. : mutable
+        - 2-1-1. [list] : mutable
         - 2-1-2. (Tuple) : immutable
         - 2-1-3. range() : immutable
         - 2-1-4. 'String' : immutable
