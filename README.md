@@ -81,3 +81,18 @@ jupyter lab
 - 5. 이름공간(space)
 - 6. 재귀
 
+## [메소드](04_datastructure.ipynb)
+
+- 1. 문자열(string) 메소드
+- 2. 리스트(list) 메소드
+    - 2-1. 리스트 복사(copy)
+    - 2-2. 리스트 comprehension
+- 3. 사전(dictionary) 메소드
+    - 3-1. 사전 comprehension
+- 4. 세트(set) 메소드
+- 5. map, filter, zip
+    - 5-1. map
+    - 5-2. filter
+    - 5-3. zip
+
+
