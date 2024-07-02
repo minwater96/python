@@ -95,4 +95,16 @@ jupyter lab
     - 5-2. filter
     - 5-3. zip
 
+## [모듈 & 에러](05_module.ipynb)
 
+- 1.모듈
+- 2.패키지
+- 3.파이썬 내장 패키지
+    - 3-1. math
+    - 3-2. random
+    - 3-3. datetime
+- 4. 라이브러리
+- 5. error
+    - 5-1. syntex error
+    - 5-2. exception
+    - 5-3. 예외처리
