@@ -95,7 +95,7 @@ jupyter lab
     - 5-2. filter
     - 5-3. zip
 
-## [모듈 & 에러](05_module.ipynb)
+## [모듈 & 에러](05_module & error.ipynb)
 
 - 1.모듈
 - 2.패키지
